@@ -1,0 +1,9 @@
+D:\CryptoCurrency\CryptoCurrency\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\CryptoCurrency\CryptoCurrency\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\CryptoCurrency\CryptoCurrency\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\CryptoCurrency\CryptoCurrency\Application\obj\Debug\netcoreapp3.1\Application.pdb

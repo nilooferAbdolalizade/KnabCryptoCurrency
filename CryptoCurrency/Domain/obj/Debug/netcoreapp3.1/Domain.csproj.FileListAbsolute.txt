@@ -1,0 +1,11 @@
+D:\CryptoCurrency\CryptoCurrency\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\CryptoCurrency\CryptoCurrency\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\CryptoCurrency\CryptoCurrency\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.Exception.ExceptionResource.resources
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\CryptoCurrency\CryptoCurrency\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache

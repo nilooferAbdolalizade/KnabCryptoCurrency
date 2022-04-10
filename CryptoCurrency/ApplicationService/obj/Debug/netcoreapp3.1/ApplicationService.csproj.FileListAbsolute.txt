@@ -1,0 +1,14 @@
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\Application.dll
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\Domain.dll
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\Application.pdb
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.AssemblyReference.cache
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+D:\CryptoCurrency\CryptoCurrency\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb
