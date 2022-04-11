@@ -12,7 +12,7 @@
 
 2.	 One of the features C# 8.0 (version I’m using) added to C# is Static local functions. You can add a static modifier to local function doesn’t capture (reference) any variables from the enclosing scope. I used this in CryptoService class:
     Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/localStaticFunction.png "localStaticFunction")
+![alt text](https://github.com/nilooferAbdolalizade/KnabCryptoCurrency/localStaticFunction.png "localStaticFunction")
 
 3.	At first, I will try to find out in what part of the code the problem has occurred. Depend on the business and code, I use some tools like Profiler, diagnostic or Benchmark to find which part has weakened the performance. 
 I remember Last Year I published a new windows service which had to get huge data from a database and do some business on them and write the new data on another database. Writing the set of records that should normally take few milliseconds took one minute and caused deadlock on database. It took a long time to find out that part of the code and try to improve the query and fix the performance problem.
